@@ -1,6 +1,6 @@
 //Assignment one
 //Author: Isaiah Mutekanga
-//This program displays a Fibonacci sequence
+//This program displays a Fibonacci sequences
 import java.util.*;
 import java.time.*;
 public class AssignmentOne {
